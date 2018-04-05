@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import Zip
 
 class ViewController: UIViewController {
 
