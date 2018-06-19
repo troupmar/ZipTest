@@ -1,9 +1,9 @@
 {
-  "commitish" : "1.1.0",
+  "commitish" : "be01e41362d4f9e1452a014aad6b895bf8061f0c",
   "iOS" : [
     {
       "name" : "Zip",
-      "hash" : "ae13e35bdd931cc72312d7aa973e3ec27975121635bf9aba06f421543c0b0886"
+      "hash" : "efff89eb0278e963527fbbbfaade4948e634a96911bc5e6abe040911983ce836"
     }
   ]
 }
